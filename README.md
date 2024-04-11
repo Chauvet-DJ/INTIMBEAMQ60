@@ -2,7 +2,7 @@
 
 ### Firmware Update Instructions
 1. Download the zip file onto your computer and extract the folder.
-2. Create a folder in the root directory and name it **Intimidator Beam Q60**. The folder must be named exactly this.
+2. Create a folder in the root directory and name it: **Intimidator Beam Q60**. The folder must be named exactly this.
 3. Transfer the contents of the zip file into this newly created folder
 4. Power on the fixture and let it boot up completely
 5. Go to "**SYSINFO**" on the main menu and note the current firmware version.
